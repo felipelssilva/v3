@@ -1,7 +1,7 @@
 ---
 date: '2021-03-01'
 title: 'Front-end Hybris Developer'
-company: 'NTT DATA'
+company: 'NTT DATA (old FH)'
 location: 'Curitiba, PR'
 range: 'May 2018 - Mar 2021'
 url: 'https://www.apple.com/music/'

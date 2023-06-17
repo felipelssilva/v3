@@ -167,10 +167,10 @@ const About = () => {
             </p>
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://leveluplatam.com/">an game industry</a>, a marketing solution to
-              publishing and distribution, and my main focus these days is develop, test, deploy,
-              maintain, and improve services focusing on performance, scalability, and stability,
-              experiences applied at <a href="https://hype.games/">Hype Games</a>.
+              <a href="https://leveluplatam.com/">an game industry</a>, and my main focus these days
+              is develop, test, deploy, maintain, and improve services focusing on performance,
+              scalability, and stability, experiences applied at{' '}
+              <a href="https://hype.games/">Hype Games</a>.
             </p>
 
             {/* <p>
