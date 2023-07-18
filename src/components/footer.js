@@ -113,7 +113,7 @@ const Footer = () => {
           </a>{' '}
           and{' '}
           <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
-            Styled Compoents
+            Styled Components
           </a>
           , deployed with{' '}
           <a href="https://vercel.com/" target="_blank" rel="noreferrer">
