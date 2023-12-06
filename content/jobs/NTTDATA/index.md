@@ -4,7 +4,7 @@ title: 'Front-end Hybris Developer'
 company: 'NTT DATA (old FH)'
 location: 'Curitiba, PR'
 range: 'May 2018 - Mar 2021'
-url: 'https://www.apple.com/music/'
+url: 'https://nttdata-solutions.com/us/'
 ---
 
 - Front-end development for international and national e-commerce, B2B / B2C customers using an SAP C / 4HANA platform
