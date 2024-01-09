@@ -3,7 +3,7 @@ date: '2021-05-02'
 title: 'Front-end Developer'
 company: 'Level Up Latam'
 location: 'São Paulo, SP'
-range: 'Mar 2021 - Present'
+range: 'Mar 2021 - Dez 2023'
 url: 'https://leveluplatam.com/'
 ---
 

@@ -1,10 +1,10 @@
 ---
-date: '2021-03-01'
-title: 'Front-end Hybris Developer'
-company: 'NTT DATA (old FH)'
-location: 'Curitiba, PR'
-range: 'May 2018 - Mar 2021'
-url: 'https://nttdata-solutions.com/us/'
+date: '2024-01-10'
+title: 'Sr. Front-end Developer'
+company: 'NTT DATA'
+location: 'From home'
+range: 'Jan 2024 - Present'
+url: 'https://nttdata-solutions.com/'
 ---
 
 - Front-end development for international and national e-commerce, B2B / B2C customers using an SAP C / 4HANA platform
