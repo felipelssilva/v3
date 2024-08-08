@@ -1,14 +1,21 @@
 ---
-date: '2021-05-02'
+date: '2023-12-01'
 title: 'Front-end Developer'
-company: 'Level Up Latam'
-location: 'São Paulo, SP'
+company: 'Level Up Interactive'
+location: 'São Paulo, SP, Brazil'
 range: 'Mar 2021 - Dez 2023'
 url: 'https://leveluplatam.com/'
 ---
 
-- Ensure successful delivery of projects, and promote the long-term technical health of our services;
-- Design, develop, test, deploy, maintain, and improve services focusing on performance, scalability, and stability;
-- Partner with product and design to build highly responsive, intuitive, and sleek experiences that will delight customers and set a high bar for all web applications;
-- Support existing systems looking to enhance functionality, increase scale, and transform in new ways to meet our product demands;
-- Create new services and capabilities to meet emerging needs as our business grows.
+- High-Impact Project Delivery: Delivered front-end projects ensuring
+performance, scalability, and stability, aligning them with client and end-user
+expectations.
+- Creation of Intuitive Experiences: Partnered with product and design teams to
+create intuitive and responsive user experiences, enhancing customer
+satisfaction.
+- Continuous Improvement: Enhanced existing systems to meet evolving product
+demands, ensuring market competitiveness.
+- Development of New Features: Developed new services and capabilities to
+support business growth, focusing on innovation and efficiency.
+- Technologies: jQuery, JavaScript, React, Next.js, Vue.js, Angular, Gulp, SASS,
+CSS3, Tailwind CSS, Bootstrap, Jenkins, C# MVC, PHP, Laravel.

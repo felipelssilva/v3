@@ -1,11 +1,20 @@
 ---
 date: '2021-03-01'
-title: 'Front-end Hybris Developer'
-company: 'NTT DATA (old FH)'
-location: 'Curitiba, PR'
+title: 'SAP C/4Hana Front-end Developer'
+company: 'FH Consulting/NTT Data'
+location: 'Curitiba, PR, Brazil'
 range: 'May 2018 - Mar 2021'
 url: 'https://nttdata-solutions.com/'
 ---
 
-- Front-end development for international and national e-commerce, B2B / B2C customers using an SAP C / 4HANA platform
-- jQuery, JavaScript, Java, React, Grunt, Gulp, SASS, Less, CSS3. Jira, Confluence, Bitbucket
+- E-commerce Solution Development: Developed robust front-end solutions for
+international and national e-commerce clients using the SAP C/4HANA
+platform.
+- Technology Integration: Worked with diverse technologies to ensure seamless
+integration and efficient operation of e-commerce platforms.
+- International Collaboration: Collaborated with international teams to ensure
+high-quality project delivery within stipulated timelines.
+- Adaptation and Flexibility: Quickly adapted solutions to specific client needs,
+providing a personalized and effective user experience.
+- Technologies: jQuery, JavaScript, Java, React, Grunt, Gulp, SASS, Less, CSS3,
+Jira, Confluence, Bitbucket.
