@@ -1,7 +1,7 @@
 ---
 date: '2014-09-01'
 title: 'Web Designer Analyst'
-company: 'Uniube - Universidade de Uberaba'
+company: 'Uniube'
 location: 'Uberaba, MG, Brazil'
 range: 'Feb 2012 - Sep 2014'
 url: 'https://uniube.br/'
