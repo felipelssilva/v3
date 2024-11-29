@@ -131,6 +131,7 @@ const About = () => {
     'jQuery',
     'Next.js',
     'React',
+    'Vue',
     'Angular',
     'Grunt',
     'Gulp',
@@ -142,7 +143,9 @@ const About = () => {
     'CSS3',
     'HTML5',
     'Jest',
+    'Cypress',
     'Bootstrap',
+    'Tailwind CSS',
     'Material Design',
   ];
 
