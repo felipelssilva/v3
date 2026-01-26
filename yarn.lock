@@ -2768,10 +2768,10 @@ ajv@^8.0.1:
     require-from-string "^2.0.2"
     uri-js "^4.4.1"
 
-animejs@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/animejs/-/animejs-3.1.0.tgz#748a90fc1d4bef3efed64508af9a6a82babf5c47"
-  integrity sha512-BjnCroPPQPEAngT0M89pz9TBcOGgOFLnVoq3+jV2upl4rn60k57/AXvESTnuILsNgOEjGuhMEOMp7IlQzk40kA==
+animejs@4.3.5:
+  version "4.3.5"
+  resolved "https://registry.yarnpkg.com/animejs/-/animejs-4.3.5.tgz#7595510f97cc6420ff38b95b786335a9284e113e"
+  integrity sha512-yuQo/r97TCE+DDu3dTRKjyhBKSEGBcZorWeRW7WCE7EkAQpBoNd2E82dAAD/MDdrbREv7qsw/u7MAqiUX544WQ==
 
 anser@^2.0.1:
   version "2.1.1"
